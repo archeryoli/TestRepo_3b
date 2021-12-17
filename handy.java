@@ -1,1 +1,3 @@
-{\rtf1}
+public class Handy{
+    private String _brand;
+}
