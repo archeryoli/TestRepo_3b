@@ -1,3 +1,4 @@
-public class Handy{
+pubilc class Handy{
+    private int _handyId;
     private String _brand;
 }
