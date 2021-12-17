@@ -1,1 +1,3 @@
-{\rtf1}
+pubilc class Handy{
+  private int _handyId;
+}
